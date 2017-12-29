@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src - [reps-app]'" />
-    <option name="defaultScopeName" value="Directory '.../src - [reps-app]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src - [reps-app]'" />
+    <option name="customScope" value="Project 'reps-app'" />
+    <option name="defaultScopeName" value="Project 'reps-app'" />
+    <option name="SEARCH_SCOPE" value="Project 'reps-app'" />
   </component>
 </application>
