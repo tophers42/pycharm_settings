@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'wet_arms'" />
-    <option name="defaultScopeName" value="Project 'wet_arms'" />
+    <option name="customScope" value="File '.../wet_arms/results/merge_preview.py'" />
+    <option name="defaultScopeName" value="File '.../wet_arms/results/merge_preview.py'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'wet_arms'" />
+    <option name="SEARCH_SCOPE" value="File '.../wet_arms/results/merge_preview.py'" />
   </component>
 </application>
